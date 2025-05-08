@@ -1,7 +1,9 @@
 ```markdown
 # Conversor de Moedas 💱
 
-Este é um projeto desenvolvido como parte do **Programa ONE (Oracle Next Education)**. O objetivo é criar um conversor de moedas que utiliza uma API para obter taxas de câmbio em tempo real e realizar conversões entre diferentes moedas.
+Este é um projeto desenvolvido como parte do **Programa ONE (Oracle Next Education)**.
+O objetivo é criar um conversor de moedas que utiliza uma API para obter taxas de câmbio em tempo real
+e realizar conversões entre diferentes moedas.
 
 ## 🛠️ Funcionalidades
 
